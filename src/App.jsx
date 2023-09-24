@@ -49,7 +49,7 @@ function App() {
   return (
 
     <div className="App">
-        <button >Toggle</button>
+        {/* <button >Toggle</button> */}
       <Sidebar addNote={addNote} />
       <Notecontainer
         notes={notes}

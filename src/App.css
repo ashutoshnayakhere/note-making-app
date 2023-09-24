@@ -4,9 +4,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-body{
-  background-color: rgb(18, 9, 9);
-}
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
